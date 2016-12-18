@@ -1,8 +1,10 @@
 # Aruco_move_ros_pkg
 
-1. Download aruco_ros and aruco_move from my github
+1. Download aruco_ros and aruco_move from github
 	
-	a. Save repository on desktop or in home directory, will be moved later.
+	a. Download repository on desktop or in home directory, will be moved later.
+
+		->git clone https://github.com/plynn17/Aruco_move_ros_pkg.git
 
 2. Using catkin_make_pkg create a pkg titled "aruco_move" and "aruco_ros"
 	
